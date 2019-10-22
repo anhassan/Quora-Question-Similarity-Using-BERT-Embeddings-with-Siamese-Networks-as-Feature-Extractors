@@ -51,7 +51,7 @@ matplotlib==3.1.1
 mccabe==0.6.1
 msgpack==0.6.1
 netifaces==0.10.4
-nltk==3.4.4
+nltk==3.4.5
 numpy==1.16.4
 oauth==1.0.1
 olefile==0.45.1
