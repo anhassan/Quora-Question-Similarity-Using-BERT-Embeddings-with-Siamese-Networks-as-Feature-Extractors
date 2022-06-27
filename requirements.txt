@@ -76,7 +76,7 @@ pytz==2019.1
 pyxdg==0.25
 PyYAML==5.1.1
 regex==2018.2.21
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.22.0
 requests-unixsocket==0.1.5
 s3transfer==0.2.1
